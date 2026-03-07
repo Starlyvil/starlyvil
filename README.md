@@ -34,9 +34,11 @@ I’m passionate about **open source**, mentoring engineers, and building tools 
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+
+### ♾️DevOps
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
