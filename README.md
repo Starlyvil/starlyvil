@@ -53,7 +53,7 @@ I’m passionate about **open source**, mentoring engineers, and building tools 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ---
 
 ## 🌍 Open Source Projects
@@ -78,7 +78,7 @@ I’m passionate about **open source**, mentoring engineers, and building tools 
 - Built with developer experience in mind
 
 📌 Status: Active  
-🔗 Repository: [Zion Light](https://github.com/VilsHub/vUX)
+🔗 Repository: [vUX](https://github.com/VilsHub/vUX)
 
 ---
 
@@ -99,8 +99,13 @@ I’m passionate about **open source**, mentoring engineers, and building tools 
 📌 Status: Active  
 🔗 Repository: [K8SMgr](https://github.com/VilsHub/K8Smgr)
 
-
 ---
+
+### 🔹 xGuard
+**xGuard** is a wrapper for the native rm utility designed to protect system directories and critical files from accidental deletion. It monitors specified directories and restricts deletion within a defined depth level.
+
+📌 Status: Active  
+🔗 Repository: [xGuard](https://github.com/VilsHub/xGuard)
 
 ### 🔹 DevOps & Infrastructure Work
 - Kubernetes operators (Python / Kopf)
@@ -139,4 +144,4 @@ I’m passionate about **open source**, mentoring engineers, and building tools 
 - 🌍 Open to remote & global opportunities
 - 🤝 Always happy to collaborate on open source
 
-⭐️ *If you find my work useful, consider giving a star — it really helps!*
+⭐️ *If you find my work useful (Check at [VilsHub](https://github.com/VilsHub)), consider giving a star — it really helps!*
