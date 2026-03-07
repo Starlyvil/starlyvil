@@ -53,7 +53,7 @@ I’m passionate about **open source**, mentoring engineers, and building tools 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
+![Bash](https://img.shields.io/badge/Bash-Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ---
 
 ## 🌍 Open Source Projects
@@ -78,7 +78,27 @@ I’m passionate about **open source**, mentoring engineers, and building tools 
 - Built with developer experience in mind
 
 📌 Status: Active  
-🔗 Repository: *Add link here*
+🔗 Repository: [Zion Light](https://github.com/VilsHub/vUX)
+
+---
+
+### 🔹 K8SMgr
+**Kubernetes cluster manager** is a lightweight Bash-based CLI tool designed to simplify Kubernetes cluster management, including setup, initialization, node joining, and cluster maintenance. It provides a user-friendly command-line interface with colored menus, prompts, and status output for enhanced usability.
+
+- Setup Kubernetes components on nodes
+- Initialize Kubernetes clusters
+- Join worker nodes to existing
+- Manage cluster operations via sub-modes:
+    - Reset cluster
+    - Initialize cluster
+    - Upgrade cluster (remote agent installation, health checks, etc.)
+- Clear, color-coded CLI output
+- Interactive and prompt-based modes for ease of use
+- Multi-platform support (Linux environments)
+
+📌 Status: Active  
+🔗 Repository: [K8SMgr](https://github.com/VilsHub/K8Smgr)
+
 
 ---
 
@@ -103,10 +123,13 @@ I’m passionate about **open source**, mentoring engineers, and building tools 
 
 ## 📚 Currently Exploring
 
-- Advanced Kubernetes & operators
-- Private identity systems (OIDC, OAuth2, JWT)
-- Blockchain infrastructure (Ethereum / Hyperledger Besu)
-- Observability at scale
+- Advanced Kubernetes & Production Reliability
+- Cloud Security & Identity (CRITICAL)
+- Deep Systems Mastery
+- Platform Engineering
+- Data & AI Infrastructure Foundations
+- MLOps & LLM Systems
+- Distributed Systems Mastery
 
 ---
 
