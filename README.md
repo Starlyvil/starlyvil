@@ -66,7 +66,7 @@ I’m passionate about **open source**, mentoring engineers, and building tools 
 - Designed for real-world backend systems
 
 📌 Status: Active  
-🔗 Repository: *Add link here*
+🔗 Repository: [Zion Light](https://github.com/VilsHub/zionlight-web)
 
 ---
 
