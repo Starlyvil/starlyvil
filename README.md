@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ndifreke Essien
 
-🚀 Cloud & DevOps Engineer | 🧑‍💻 Software Engineer | 🔧 Lead System Integrator  
+🚀 Cloud & DevOps Engineer | 🧑‍💻 Software Engineer | 🔧 Head of Platform engineering 
 ☁️ Azure, AWS | 🐧 Linux | ⚙️ Kubernetes | 🐳 Docker | 🧠 Open Source
 
 ---
